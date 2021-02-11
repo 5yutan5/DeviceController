@@ -8,7 +8,6 @@ This module is currently in production.
 **Important Note**: Most all of the dependencies listed below will not be installed automatically. So you need to install them.
 
 - Python 3.9+
-- PyQt5 5.9+
 - pyserial 3.5+
 
 ## Installation
